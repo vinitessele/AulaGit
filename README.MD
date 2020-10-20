@@ -1,0 +1,1 @@
+Esque arquivo é leia-me da aula de git
