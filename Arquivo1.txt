@@ -1,3 +1,4 @@
 teste git 
 teste de alteracao do arquivo
 alterado no branch master
+alterado no branch master e commitado
