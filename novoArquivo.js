@@ -1,1 +1,1 @@
-arquivo javascrip do fulano de tal
+arquivo javascript do fulano de tal
